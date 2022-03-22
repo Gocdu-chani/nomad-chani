@@ -1,3 +1,1 @@
-# nomad-chani
-
-Nomad code challenge course
+# chani clone coding

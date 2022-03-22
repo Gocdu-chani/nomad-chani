@@ -1,0 +1,19 @@
+{
+  "name": "nomad-chani",
+  "version": "1.0.0",
+  "description": "Nomad code challenge course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gocdu-chani/nomad-chani.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gocdu-chani/nomad-chani/issues"
+  },
+  "homepage": "https://github.com/Gocdu-chani/nomad-chani#readme"
+}

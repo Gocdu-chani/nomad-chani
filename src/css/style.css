@@ -1,0 +1,16 @@
+@charset "utf-8";
+.dv-wrap {width:1440px; margin:0 auto; box-sizing:border-box; padding:0 24px;}
+
+header {background:#fff; box-shadow:0 5px 10px rgba(0,0,0,0.2);}
+header > div {display:flex; justify-content:space-between;}
+header > div h1 {flex:1; line-height:8.0rem;}
+header .gnb-main {flex:6; }
+header .gnb-etc {flex:.7; }
+header .gnb-main nav ul {display:flex;}
+header .gnb-main nav ul a {line-height:80px; padding:0 10px; font-weight:500;}
+
+header .gnb-etc ul {display:flex; justify-content:space-between; padding:20px 0;}
+header .gnb-etc ul li a{text-indent:-9999px; display:block; width:40px; height:40px;}
+header .gnb-etc ul li:nth-child(1) a {background:url(/src/images/icon-zoom.svg) no-repeat 50% 50%;}
+header .gnb-etc ul li:nth-child(2) a {background:url(/src/images/icon-cart.svg) no-repeat 50% 50%;}
+header .gnb-etc ul li:nth-child(3) a {background:url(/src/images/icon-people.svg) no-repeat 50% 50%;}
